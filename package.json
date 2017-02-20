@@ -17,6 +17,6 @@
     "passport":"*",
     "passport-jwt":"*"
   },
-  "author": "Brad Traversy",
+  "author": "Naven Prasad",
   "license": "ISC"
 }
